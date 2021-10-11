@@ -13,4 +13,4 @@
 
 ### 🎨 About Me
 
-Hi I'm Flaing, an beginner programmer, I'm 13 years old and I was born in Argentina, I currently work on my Discord Bot Powershell, his website and my website.
+- Hi I'm Flaing, an beginner programmer, I'm 13 years old and I was born in Argentina, I currently work on my Discord Bot Powershell, his website and my website.
