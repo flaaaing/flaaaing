@@ -20,7 +20,7 @@
 
 
 <div align="left">
-  <a href="https://discord.com/users/">
+  <a href="https://discord.com/users/852651552686866482">
     <img src="https://lanyard-profile-readme.vercel.app/api/852651552686866482?animated=true" align="left" height="205">
   </a>
 </div>
