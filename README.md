@@ -9,7 +9,7 @@
 
 ### 👑 Proyects:
 - Powershell *(Discord Bot)*
-- My Web *(Open Source)* - [Proyecto GitHub](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
+- My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
 
 ### 🎨 About Me
 
