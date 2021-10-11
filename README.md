@@ -1,7 +1,7 @@
 
 # <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px"> Hi, I'm Flaing!
 
-#### ⚙️ Lenguages:
+#### ⚙️ Languages:
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
 - ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,7 +9,7 @@
 
 ### 👑 Proyects:
 - Powershell *(Discord Bot)*
-- Mi Web *(Open Source)* - [Proyecto GitHub](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
+- My Web *(Open Source)* - [Proyecto GitHub](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
 
 ### 🎨 About Me
 
