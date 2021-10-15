@@ -8,9 +8,11 @@
 - ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 👑 Proyects:
+
 - Powershell *(Discord Bot)*
 - My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
-
+- JavaShit *(Open Source)* - [Github Proyect](https://github.com/flaaaing/JavaShit-Bot)
+- 
 ### 🎨 About Me
 
 - Hi I'm Flaing, an beginner programmer, I'm 13 years old and I was born in Argentina, I currently work on my Discord Bot Powershell, his website and my website.
