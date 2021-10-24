@@ -11,6 +11,7 @@
 
 - My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
 - JavaShit *(Open Source)* - [Github Proyect](https://github.com/flaaaing/JavaShit-Bot)
+- JavaShit web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/Javashit-Web) - [Link](https://javashit-web.netlify.app)
 
 ### 🎨 About Me
 
