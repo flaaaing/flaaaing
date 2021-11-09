@@ -6,7 +6,10 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
 - ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
-
+- <br>
+<a href="https://github.com/LyricalString">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyricalString&langs_count=3&theme=dark">
+</a>
 ### 👑 Proyects:
 
 - My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
