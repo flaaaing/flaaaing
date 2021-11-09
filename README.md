@@ -10,6 +10,7 @@
 <a href="https://github.com/LyricalString">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyricalString&langs_count=3&theme=dark">
 </a>
+
 ### 👑 Proyects:
 
 - My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
