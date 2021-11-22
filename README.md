@@ -16,7 +16,8 @@
 - My Web *(Open Source)* - [Github Proyect](https://github.com/flaaaing/flaing-web) - [Link](https://flaing-web.netlify.app)
 - CactusBot - [Github Proyect](https://github.com/flaaaing/Cactus-Bot)
 - DiscordJS v13 Template - [Github Proyect](https://github.com/flaaaing/DiscordJS-v13-Template)
+- Arcan - [Github Proyect](https://github.com/flaaaing/Arcan)
 
 ### 🎨 About Me
 
-- Hi I'm Flaing, an beginner programmer, I'm 13 years old and I was born in Argentina, I currently work on my Discord Bot Powershell, his website and my website.
+- Hi I'm Flaing, an beginner programmer, I'm 13 years old and I was born in Argentina, I currently work on my Discords Bots and my website.
